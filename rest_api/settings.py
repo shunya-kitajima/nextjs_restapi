@@ -61,7 +61,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
-    'https://api-0gjy.onrender.com',
+    'https://nextjs-blog-todos-sooty.vercel.app',
 ]
 
 SIMPLE_JWT = {
